@@ -1,16 +1,15 @@
+import CardsList from './CardsList/CardsList';
+import Filter from './Filter/Filter';
+import Header from './Header/Header';
+import PaginationCards from './PaginationCards/PaginationCards';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
+    <div>
+      <Header />
+      <Filter />
+      <CardsList />
+      <PaginationCards />
     </div>
   );
 };
