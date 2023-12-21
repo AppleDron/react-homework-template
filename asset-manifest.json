@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-task-expletech/static/css/main.7acaea2f.css",
+    "main.js": "/test-task-expletech/static/js/main.aa00c1ad.js",
+    "index.html": "/test-task-expletech/index.html",
+    "main.7acaea2f.css.map": "/test-task-expletech/static/css/main.7acaea2f.css.map",
+    "main.aa00c1ad.js.map": "/test-task-expletech/static/js/main.aa00c1ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.aa00c1ad.js"
+  ]
+}
